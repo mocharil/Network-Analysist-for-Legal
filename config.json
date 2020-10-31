@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.google.com/search?q=setneg&safe=strict&rlz=1C1CHBD_enID882ID882&sxsrf=ALeKk03r8JlmTolDX5q-tiuuCkUcKPKI7w:1596530889073&tbm=isch&source=iu&ictx=1&fir=s00XdANYDqeoxM%252CWvaO2XA-IyuGOM%252C%252Fg%252F11bc6gf519&vet=1&usg=AI4_-kRoiBTtz3qZEpkxsbTr20pNhMB5ig&sa=X&ved=2ahUKEwi9hpCElYHrAhWGA3IKHSj2AaYQ_B0wGnoECA4QAw&biw=1366&bih=657#imgrc=dmJZej1k_s_tsM",
+    "link": "",
+    "text": "SETNEG"
+  },
+  "text": {
+    "more": "Network PUU searchable",
+    "intro": "",
+    "title": "NETWORK of PUU"
+  },
+  "legend": {
+    "edgeLabel": "terkait",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "PUU"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "white",
+      "labelThreshold": 7,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2.5,
+      "minEdgeSize": 1,
+      "minNodeSize": 3,
+      "maxNodeSize": 8
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
